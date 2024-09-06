@@ -1,0 +1,578 @@
+[
+  {
+    "No.": 39,
+    "Student Number": 145840,
+    "Student Name": "Mwanda, George Josiah",
+    "DoB": "2000-02-20T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "mjosiah@gmail.com"
+  },
+  {
+    "No.": 23,
+    "Student Number": 122992,
+    "Student Name": "Kithae, Eric Muriithi",
+    "DoB": "2000-10-02T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "kmuriithi@gmail.com"
+  },
+  {
+    "No.": 12,
+    "Student Number": 145644,
+    "Student Name": "Hassan, Fardowsa Abduhakim",
+    "DoB": "2000-09-20T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "habduhakim@gmail.com"
+  },
+  {
+    "No.": 29,
+    "Student Number": 146357,
+    "Student Name": "Morekwa, David Nyamongo",
+    "DoB": "2001-02-13T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "mnyamongo@gmail.com"
+  },
+  {
+    "No.": 13,
+    "Student Number": 138551,
+    "Student Name": "Ismail, Ruweida Ali",
+    "DoB": "2000-04-08T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "iali@gmail.com"
+  },
+  {
+    "No.": 33,
+    "Student Number": 145889,
+    "Student Name": "Muli, Grace Kanini",
+    "DoB": "2000-04-27T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "mkanini@gmail.com"
+  },
+  {
+    "No.": 62,
+    "Student Number": 124342,
+    "Student Name": "Wanjao, Louis Mbugua",
+    "DoB": "2001-04-20T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "wmbugua@gmail.com"
+  },
+  {
+    "No.": 56,
+    "Student Number": 142005,
+    "Student Name": "Owens, Nicole Owens",
+    "DoB": "2000-09-14T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "oowens@gmail.com"
+  },
+  {
+    "No.": 47,
+    "Student Number": 137222,
+    "Student Name": "Njuguna, Elizabeth Njoki",
+    "DoB": "2000-07-07T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "nnjoki@gmail.com"
+  },
+  {
+    "No.": 19,
+    "Student Number": 146273,
+    "Student Name": "Kihara, Shannon Kendi",
+    "DoB": "2002-10-14T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "kkendi@gmail.com"
+  },
+  {
+    "No.": 11,
+    "Student Number": 145982,
+    "Student Name": "Haji, Ashir Ali",
+    "DoB": "2003-06-13T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "hali@gmail.com"
+  },
+  {
+    "No.": 61,
+    "Student Number": 146360,
+    "Student Name": "Wakaba, Rosemary Njeri",
+    "DoB": "2000-01-11T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "wnjeri@gmail.com"
+  },
+  {
+    "No.": 10,
+    "Student Number": 87244,
+    "Student Name": "Githinji, Don Moses Thigiti",
+    "DoB": "2000-04-12T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "gthigiti@gmail.com"
+  },
+  {
+    "No.": 42,
+    "Student Number": 145353,
+    "Student Name": "Ndambiri, Yvonne Nyambura",
+    "DoB": "2002-07-21T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "nnyambura@gmail.com"
+  },
+  {
+    "No.": 63,
+    "Student Number": 145356,
+    "Student Name": "Waweru, Monika Ng'endo",
+    "DoB": "2002-05-20T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "wngendo@gmail.com"
+  },
+  {
+    "No.": 20,
+    "Student Number": 131652,
+    "Student Name": "Kimutai, Peter Kibet",
+    "DoB": "2002-09-16T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "kkibet@gmail.com"
+  },
+  {
+    "No.": 18,
+    "Student Number": 146015,
+    "Student Name": "Kiarie, Samuel Ndungu",
+    "DoB": "2000-06-09T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "kndungu@gmail.com"
+  },
+  {
+    "No.": 6,
+    "Student Number": 145346,
+    "Student Name": "Budembeshe, Moses Kasuni",
+    "DoB": "2002-02-24T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "bkasuni@gmail.com"
+  },
+  {
+    "No.": 15,
+    "Student Number": 141910,
+    "Student Name": "Kamau, Ann Mumbi",
+    "DoB": "2001-11-28T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "kmumbi@gmail.com"
+  },
+  {
+    "No.": 1,
+    "Student Number": 144234,
+    "Student Name": "Abwoga, Adrian Jared Paul",
+    "DoB": "2000-06-17T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "apaul@gmail.com"
+  },
+  {
+    "No.": 7,
+    "Student Number": 146320,
+    "Student Name": "Dessalegn, Kalid Geleta",
+    "DoB": "2000-09-07T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "dgeleta@gmail.com"
+  },
+  {
+    "No.": 2,
+    "Student Number": 145587,
+    "Student Name": "Akong'o, Shanelle Hilda Anyango",
+    "DoB": "2001-11-14T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "aanyango@gmail.com"
+  },
+  {
+    "No.": 35,
+    "Student Number": 145434,
+    "Student Name": "Mutaki, Ruby Mbete",
+    "DoB": "2002-06-17T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "mmbete@gmail.com"
+  },
+  {
+    "No.": 28,
+    "Student Number": 138493,
+    "Student Name": "Mohamed, Ally Mahamud",
+    "DoB": "2003-04-04T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "mmahamud@gmail.com"
+  },
+  {
+    "No.": 14,
+    "Student Number": 137766,
+    "Student Name": "Johnson, Myles Adebayo",
+    "DoB": "2001-04-27T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "jadebayo@gmail.com"
+  },
+  {
+    "No.": 32,
+    "Student Number": 145350,
+    "Student Name": "Muiyuro, Natasha Waithira",
+    "DoB": "2002-08-19T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "mwaithira@gmail.com"
+  },
+  {
+    "No.": 4,
+    "Student Number": 140801,
+    "Student Name": "Arunga, Kyla Neema",
+    "DoB": "2003-10-26T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "aneema@gmail.com"
+  },
+  {
+    "No.": 43,
+    "Student Number": 136559,
+    "Student Name": "Ndungu, Sarah Laura Wangari",
+    "DoB": "2003-10-01T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "nwangari@gmail.com"
+  },
+  {
+    "No.": 59,
+    "Student Number": 132747,
+    "Student Name": "Tum, Bramwel Kipchirchir",
+    "DoB": "2001-02-06T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "tkipchirchir@gmail.com"
+  },
+  {
+    "No.": 57,
+    "Student Number": 141756,
+    "Student Name": "Patel, Jay Hirji",
+    "DoB": "2003-06-25T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "phirji@gmail.com"
+  },
+  {
+    "No.": 53,
+    "Student Number": 138367,
+    "Student Name": "Ombeni, Mwenzangu Faraja",
+    "DoB": "2001-12-03T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "ofaraja@gmail.com"
+  },
+  {
+    "No.": 60,
+    "Student Number": 143621,
+    "Student Name": "Wachira, Joy Muthoni",
+    "DoB": "2001-08-07T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "wmuthoni@gmail.com"
+  },
+  {
+    "No.": 51,
+    "Student Number": 138897,
+    "Student Name": "Ochanda, Steven Joel Jona",
+    "DoB": "2000-04-02T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "ojona@gmail.com"
+  },
+  {
+    "No.": 5,
+    "Student Number": 137357,
+    "Student Name": "Atenya, Anthony Magunga Ikobwa",
+    "DoB": "2002-03-17T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "aikobwa@gmail.com"
+  },
+  {
+    "No.": 30,
+    "Student Number": 144955,
+    "Student Name": "Mugambi, Kelvin Karani",
+    "DoB": "2000-04-10T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "mkarani@gmail.com"
+  },
+  {
+    "No.": 27,
+    "Student Number": 102206,
+    "Student Name": "Masaka, Zivai Takadiwa David",
+    "DoB": "2002-07-06T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "mdavid@gmail.com"
+  },
+  {
+    "No.": 37,
+    "Student Number": 134362,
+    "Student Name": "Mutunga, Eric Kiamba",
+    "DoB": "2003-07-11T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "mkiamba@gmail.com"
+  },
+  {
+    "No.": 25,
+    "Student Number": 145493,
+    "Student Name": "Kwoba, Alex Wafula",
+    "DoB": "2002-04-26T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "kwafula@gmail.com"
+  },
+  {
+    "No.": 45,
+    "Student Number": 145732,
+    "Student Name": "Ngeno, Alvin Kipkurui",
+    "DoB": "2002-12-22T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "nkipkurui@gmail.com"
+  },
+  {
+    "No.": 58,
+    "Student Number": 145837,
+    "Student Name": "Tonui, Martin",
+    "DoB": "2002-06-02T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "tmartin@gmail.com"
+  },
+  {
+    "No.": 55,
+    "Student Number": 137668,
+    "Student Name": "Orony, Charis Ng'wono",
+    "DoB": "2000-01-16T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "ongwono@gmail.com"
+  },
+  {
+    "No.": 40,
+    "Student Number": 145706,
+    "Student Name": "Nabaala, Andrew Kasaine",
+    "DoB": "2001-07-27T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "nkasaine@gmail.com"
+  },
+  {
+    "No.": 49,
+    "Student Number": 139010,
+    "Student Name": "Nyambura, Erica",
+    "DoB": "2002-08-26T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "nerica@gmail.com"
+  },
+  {
+    "No.": 48,
+    "Student Number": 146197,
+    "Student Name": "Nugi, Andrew Kiarie",
+    "DoB": "2003-04-15T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "nkiarie@gmail.com"
+  },
+  {
+    "No.": 26,
+    "Student Number": 141706,
+    "Student Name": "Maritim, Kelvin Kipngeno",
+    "DoB": "2000-10-23T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "mkipngeno@gmail.com"
+  },
+  {
+    "No.": 50,
+    "Student Number": 139471,
+    "Student Name": "Nzioki, Maureen Mutete",
+    "DoB": "2002-10-05T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "nmutete@gmail.com"
+  },
+  {
+    "No.": 38,
+    "Student Number": 141855,
+    "Student Name": "Mutunga, Patience Kamanthe",
+    "DoB": "2000-08-08T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "mkamanthe@gmail.com"
+  },
+  {
+    "No.": 36,
+    "Student Number": 146098,
+    "Student Name": "Mutua, Franklin Karanja",
+    "DoB": "2003-10-21T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "mkaranja@gmail.com"
+  },
+  {
+    "No.": 8,
+    "Student Number": 134693,
+    "Student Name": "Epetet, Keith Lokwei",
+    "DoB": "2001-06-08T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "elokwei@gmail.com"
+  },
+  {
+    "No.": 46,
+    "Student Number": 89724,
+    "Student Name": "Ngigi, Michael Macharia",
+    "DoB": "2003-08-11T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "nmacharia@gmail.com"
+  },
+  {
+    "No.": 44,
+    "Student Number": 145547,
+    "Student Name": "Ng'ang'a, Ian Mutuge",
+    "DoB": "2001-01-23T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "nmutuge@gmail.com"
+  },
+  {
+    "No.": 16,
+    "Student Number": 145883,
+    "Student Name": "Kangethe, Sharon Wanjiru",
+    "DoB": "2000-02-20T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "kwanjiru@gmail.com"
+  },
+  {
+    "No.": 22,
+    "Student Number": 138458,
+    "Student Name": "Kirema, Ian Muteithia",
+    "DoB": "2001-03-01T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "kmuteithia@gmail.com"
+  },
+  {
+    "No.": 17,
+    "Student Number": 145702,
+    "Student Name": "Karanu, Neema Muthoni",
+    "DoB": "2001-11-24T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "kmuthoni@gmail.com"
+  },
+  {
+    "No.": 3,
+    "Student Number": 145401,
+    "Student Name": "Ang'edu, Jude Ocomil",
+    "DoB": "2003-08-21T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "aocomil@gmail.com"
+  },
+  {
+    "No.": 31,
+    "Student Number": 122279,
+    "Student Name": "Muhia, Victor Mwaura",
+    "DoB": "2000-09-26T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "mmwaura@gmail.com"
+  },
+  {
+    "No.": 21,
+    "Student Number": 146602,
+    "Student Name": "Kinyua, Victor Mfana",
+    "DoB": "2003-10-28T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "kmfana@gmail.com"
+  },
+  {
+    "No.": 34,
+    "Student Number": 138348,
+    "Student Name": "Muroki, Mark Gichuhi",
+    "DoB": "2001-12-28T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "mgichuhi@gmail.com"
+  },
+  {
+    "No.": 54,
+    "Student Number": 124965,
+    "Student Name": "Ombongi, Caleb Magare",
+    "DoB": "2002-09-27T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "omagare@gmail.com"
+  },
+  {
+    "No.": 9,
+    "Student Number": 146356,
+    "Student Name": "Ger, David Otieno",
+    "DoB": "2001-01-28T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "gotieno@gmail.com"
+  },
+  {
+    "No.": 41,
+    "Student Number": 145890,
+    "Student Name": "Naibei, Monicah",
+    "DoB": "2002-11-28T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "nmonicah@gmail.com"
+  },
+  {
+    "No.": 64,
+    "Student Number": 137931,
+    "Student Name": "Waweru, Trevor Kariuki",
+    "DoB": "2002-04-19T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "wkariuki@gmail.com"
+  },
+  {
+    "No.": 52,
+    "Student Number": 128099,
+    "Student Name": "Ogutu, Brenda Mary Anyango",
+    "DoB": "2002-04-24T00:00:00",
+    "Email Address": NaN,
+    "Gender": "F",
+    "Email": "oanyango@gmail.com"
+  },
+  {
+    "No.": 24,
+    "Student Number": 145460,
+    "Student Name": "Korir, Kevin Kimutai",
+    "DoB": "2002-10-26T00:00:00",
+    "Email Address": NaN,
+    "Gender": "M",
+    "Email": "kkimutai@gmail.com"
+  }
+]

@@ -1,5 +1,3 @@
-# File: src/functions.py
-
 import pandas as pd
 import re
 import json
@@ -24,7 +22,7 @@ def generate_unique_emails(df):
     unique_emails = []
 
     for _, row in df.iterrows():
-        name = row['Student Name']  # Updated to match the new column name
+        name = row['Student Name']
         email = generate_email(name)
 
         base_email = email.split('@')[0]
@@ -42,8 +40,8 @@ def generate_unique_emails(df):
 
 
 def separate_students_by_gender(df):
-    male_students = df[df['Gender'] == 'M']  # Updated to match the new format
-    female_students = df[df['Gender'] == 'F']  # Updated to match the new format
+    male_students = df[df['Gender'] == 'M']
+    female_students = df[df['Gender'] == 'F']
 
     logging.info(f"Number of male students: {len(male_students)}")
     logging.info(f"Number of female students: {len(female_students)}")

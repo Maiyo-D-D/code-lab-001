@@ -1,5 +1,3 @@
-# File: src/constraints.py
-
 import os
 
 # Get the project root directory

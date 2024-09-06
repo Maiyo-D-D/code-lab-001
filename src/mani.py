@@ -1,5 +1,3 @@
-# File: src/main.py
-
 import pandas as pd
 import logging
 import os
